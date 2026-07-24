@@ -1,0 +1,4 @@
+['remote "origin"']
+    url = https://dagshub.com/Aditikanojiya26/car-price-prediction.dvc
+    auth = basic
+    user = Aditikanojiya26
