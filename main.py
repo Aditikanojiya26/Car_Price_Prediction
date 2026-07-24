@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.predictor import Predictor
+from  app.predictor import Predictor
 from app.schemas import CarFeatures
 
 app = FastAPI(
